@@ -2,7 +2,7 @@
 title: "Hello World!"
 author: "Xiaofei Wang, Intan Puasana, Ming Li, Haiwen Hui, Ziyan Zhang"
 date: "2023-03-11"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
